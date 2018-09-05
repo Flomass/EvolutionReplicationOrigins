@@ -6,6 +6,7 @@ A biorXiv version and a more detailed description will soon be available!
 
 
 #Data
+
 The data folder contains the position of replication origins (bed files).
 Some dataset comes with the SNS peak position (i.e. the loci maximizing the read accumulation, see Methods of the paper
 for more details) and the strength of the origin (defined as the raw count of reads mapping in the origin -- it might be
