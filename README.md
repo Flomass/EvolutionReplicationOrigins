@@ -44,6 +44,7 @@ chicken datasets. Detection was performed on a resampled read set so that experi
 coverage (i.e between 24 and 28 reads per kb)
 
 ##Chicken Data
+
 2 subfolder in this directory. Raw data come from (massip et al., soon to be submitted).
 * Oris_no_cov_correction  
 Contains one set of Origins as there is only one technical replicate available for chicken (DT40 cell line).
