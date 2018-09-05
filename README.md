@@ -4,7 +4,7 @@ You will find in this repository the data and code described in the article "Evo
 Despite Selective Constraints".
 A biorXiv version and a more detailed description will soon be available!
 
-#Data
+# Data
 
 The data folder contains the position of replication origins (bed files).
 Some dataset comes with the SNS peak position (i.e. the loci maximizing the read accumulation, see Methods of the paper
@@ -43,7 +43,7 @@ Contains the mESC origin (original data in Cayrou et al, 2015) data set that was
 chicken datasets. Detection was performed on a resampled read set so that experiment in the 3 species have similar
 coverage (i.e between 24 and 28 reads per kb)
 
-##Chicken Data
+## Chicken Data
 
 2 subfolder in this directory. Raw data come from (massip et al., soon to be submitted).
 * Oris_no_cov_correction  
