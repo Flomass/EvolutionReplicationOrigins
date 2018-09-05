@@ -45,6 +45,8 @@ coverage (i.e between 24 and 28 reads per kb)
 
 ## Chicken Data
 
+*Data will be made available upon publication*
+
 2 subfolder in this directory. Raw data come from (massip et al., soon to be submitted).
 * Oris_no_cov_correction  
 Contains one set of Origins as there is only one technical replicate available for chicken (DT40 cell line).
@@ -60,6 +62,8 @@ Raw reads were subsampled 3 times independently hence leading to 3 different ori
 **Warning:  These scripts are intended to give an idea/ help reproduce the analysis described in the mentionned paper,
 but are most of the time not worknig as it is / will require a little work to be adapted**
 
+Each script file has a header quickly explaining what the script does and what are the required input files.
+
 Five files are provided to:
 * Compute the position of the SNS peak
 
@@ -67,7 +71,7 @@ Five files are provided to:
 
 * Compute the PhastCons scores around the SNS peak
 
-* Compute the mean nucleotide content of fixed size regionsi
+* Compute the mean nucleotide content of fixed size regions
 
 * Compute the replication landscape (fig2)
 
