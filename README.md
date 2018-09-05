@@ -55,4 +55,26 @@ resampled read set so that experiment in the 3 species have similar coverage (i.
 Raw reads were subsampled 3 times independently hence leading to 3 different origin sets.
 
 
+# Scripts
+
+**Warning:  These scripts are intended to give an idea/ help reproduce the analysis described in the susmentionned paper,
+but are most of the time not worknig as it is / will require a little work to be adapted**
+
+Five files are provided to:
+* Compute the position of the SNS peak
+
+* Compute the average SNP / INDEL density around the SNS peak
+
+* Compute the PhastCons scores around the SNS peak
+
+* Compute the mean nucleotide content of fixed size regionsi
+
+* Compute the replication landscape (fig2)
+
+What I do not provide here (but is available on demand):
+
+* Scripts to assess evolutionary conservation of origins. This mainly require instersecting origins w/ UCSC pairwise
+alignment using bedtools and is relatively easy. 
+
+* Scripts to plot the actual data -- this is available on demand.
 
