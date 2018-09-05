@@ -57,7 +57,7 @@ Raw reads were subsampled 3 times independently hence leading to 3 different ori
 
 # Scripts
 
-**Warning:  These scripts are intended to give an idea/ help reproduce the analysis described in the susmentionned paper,
+**Warning:  These scripts are intended to give an idea/ help reproduce the analysis described in the mentionned paper,
 but are most of the time not worknig as it is / will require a little work to be adapted**
 
 Five files are provided to:
