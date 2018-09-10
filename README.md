@@ -1,8 +1,10 @@
 # Evolution of Replication Origins in Vertebrates
 
-You will find in this repository the data and code described in the article "Evolution of Replication Origins in Vertebrate Genomes: Rapid Turnover
-Despite Selective Constraints".
-A biorXiv version and a more detailed description will soon be available!
+You will find in this repository the data and code described in the article "Evolution of Replication Origins in
+Vertebrate Genomes: Rapid Turnover Despite Selective Constraints" which is available as a preprint on the biorXiv
+platform [here] (https://www.biorxiv.org/content/early/2018/09/10/411470)
+
+
 
 # Data
 
