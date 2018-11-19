@@ -77,6 +77,8 @@ Five files are provided to:
 
 * Compute the replication landscape (fig2)
 
+* Generate randomized segments resembling replicaiton origins  
+
 What I do not provide here (but is available on demand):
 
 * Scripts to assess evolutionary conservation of origins. This mainly require instersecting origins w/ UCSC pairwise
