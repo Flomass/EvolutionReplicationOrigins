@@ -47,7 +47,6 @@ coverage (i.e between 24 and 28 reads per kb)
 
 ## Chicken Data
 
-*Data will be made available upon publication*
 
 2 subfolder in this directory. Raw data come from (massip et al., soon to be submitted).
 * Oris_no_cov_correction  
