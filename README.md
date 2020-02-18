@@ -22,7 +22,7 @@ plos. biol.)
 Contains one set of Origins per technical replicate for each of the 5 available cell line
 
 * Oris_seq_depth_32M 
-Contains one set of Origin per human cell line. In these sets, mapped read where first combined and
+Contains one set of Origin per human cell line. In these sets, mapped reads were first combined and
 subsampled in order to generate 5 datasets (one per cell line) with equal sequencing depth (32M reads per set).
 Data in this folders should be used to compare origins of different cell types. 
 
